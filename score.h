@@ -1,3 +1,5 @@
+
+//edited from github...
 #pragma once
 
 void input_scores(int scores[]);
